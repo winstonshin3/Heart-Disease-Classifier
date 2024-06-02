@@ -1,1 +1,1 @@
-For the preview of the report, please click on report.inpyd!
+For the preview of the report, please click on report.ipynb!
