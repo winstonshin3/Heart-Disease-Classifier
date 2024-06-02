@@ -1,2 +1,1 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+For the preview of the report, please click on report.inpyd!
